@@ -1,3 +1,6 @@
+#Custom
+db/raw/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
